@@ -1,0 +1,19 @@
+.activeStyle {
+    color: red;
+    text-decoration: none;
+    border:1px solid red;
+    padding:10px;
+    border-radius: 50%;
+    color: white;
+    background-color: red;
+  }
+  .defaultStyle {
+    color: teal;
+    text-decoration: none;
+    border:1px solid teal;
+    padding:10px;
+    border-radius: 50%;
+    color:white;
+    background-color: teal;
+  }
+  
